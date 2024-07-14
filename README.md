@@ -35,19 +35,6 @@ This plugin adds a WhatsApp icon to your WordPress site, positioned on the right
 - The WhatsApp icon will appear on your site according to the settings you configured.
 - Clicking the icon will open a WhatsApp chat with the specified number.
 
-## Screenshots
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Inspired by various WhatsApp integration plugins for WordPress.
